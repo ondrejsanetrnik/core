@@ -1,0 +1,17 @@
+{
+    "name": "ondrejsanetrnik/core",
+    "description": "Provides basic methods and classes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ondrej Sanetrnik"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ondrejsanetrnik\\Core\\": "src/"
+        }
+    }
+}
